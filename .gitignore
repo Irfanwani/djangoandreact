@@ -1,0 +1,8 @@
+node_modules
+.vscode
+__pycache__
+migrations
+db.sqlite3
+static
+package-lock.json
+pipfile.lock
