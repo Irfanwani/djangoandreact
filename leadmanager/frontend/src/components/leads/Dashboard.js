@@ -7,7 +7,6 @@ import Register from '../accounts/register'
 export default function Dashboard() {
     return (
         <Fragment>
-            <Register />
             <Form />
             <Leads />
         </Fragment>
